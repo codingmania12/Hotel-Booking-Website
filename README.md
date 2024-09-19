@@ -9,10 +9,12 @@ Room Listings: Displays hotel room types with descriptions, prices, and images.
 Room Details: Detailed view of room features and amenities.
 Booking Form: Simple and intuitive form for users to reserve rooms.
 CSS Animations: Visual enhancements for smooth user experience.
+
 🚀 Technologies Used
 
 HTML5: For creating the basic structure of the website.
 CSS3: For styling, layout, and responsive design.
+
 🎯 Pages Overview
 
 Home Page (index.html):
@@ -28,6 +30,7 @@ Room amenities, prices, and user reviews
 Booking Page (booking.html):
 User-friendly booking form for selecting dates, number of guests, and room type
 Submission button for booking requests
+
 🛠️ Project Structure
 
 📂 hotel-room-booking/
@@ -50,4 +53,5 @@ Payment Gateway: Add secure payment processing for confirmed bookings.
 Enhanced Form Validation: JavaScript-powered validation for improved user feedback during booking.
 
 📄 License
+
 This project is licensed under the MIT License.
